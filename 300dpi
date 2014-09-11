@@ -1,0 +1,119 @@
+^XA
+
+^FXPart 2
+^FXDamage Notificaion
+^FO100,100^FB1040,3,,,0^A0N,18,18
+^FD
+Schade die aan de buitenzijde niet zichtbaar is, moet binnen 7 dagen na uitlevering schriftelijk aan DPD gemeld worden.\&
+Notification on damage which is not recognisable from the outside has to besubmitted to DPD within 7 days in writing.\&
+Notification on damage which is not recognisable from the outside has to besubmitted to DPD within 7 days in writing.
+^FS
+^FO100,163
+^GB1040,1,3,B,0^FS
+
+^FXDispatch Depot Address
+^FO1122,172^A0R,18,18^FDDepot 0530^FS
+^FO1095,172^A0R,18,18^FDDPD Mechelen^FS
+^FO1068,172^A0R,18,18^FDEgide Walschaertsstraat 20^FS
+^FO1041,172^A0R,18,18^FDBE-2800 Mechelen^FS
+^FO1014,172^A0R,18,18^FDTel. +32 (0) 15 40 60 20^FS
+^FO1005,163
+^GB1,450,3,B,0^FS
+
+^FXSender Address
+^FO987,172^A0R,18,18^FDVerzender / Expéditeur / Absender^FS
+^FO960,172^A0R,18,18^FDDPS^FS
+^FO933,172^A0R,18,18^FDMichiel Van Gucht^FS
+^FO906,172^A0R,18,18^FDLeuvensesteenweg 350^FS
+^FO879,172^A0R,18,18^FDBE-3190 Boortmeerbeek^FS
+^FO852,172^A0R,18,18^FDTel. +32 (0) 474502717^FS
+^FO843,163
+^GB1,450,3,B,0^FS
+
+^FXDelivery Address
+^FO100,172^A0N,18,18^FDOntvanger / Récepteur/ Empfänger^FS
+^FO100,199^A0N,30,30^FDKantoorbenodigheden Stockel^FS
+^FO100,238^A0N,30,30^FDExtra Naam^FS
+^FO100,271^A0N,24,24^FDMichiel Van Gucht^FS
+^FO100,298^A0N,30,30^FDKerkpleinstraat 38^FS
+^FO100,337^A0N,30,30^FDGroene brievenbus^FS
+^FO100,370^A0N,24,24^FDTel. +32 (0) 123456789^FS
+^FO100,397^A0N,30,30^FDBE-9000 Gent^FS
+^FO100,436
+^GB630,1,3,B,0^FS
+
+^FXFinal Consignee address
+^FO100,445^A0N,24,24^FDDPD ParcelShop customer pickup^FS
+^FO100,478^A0N,18,18^FDKantoorbenodigheden Stockel^FS
+^FO100,505^A0N,18,18^FDExtra Naam^FS
+^FO100,532^A0N,18,18^FDTel. +32 (0) 123456789^FS
+^FO100,559^A0N,18,18^FDKerkpleinstraat 38^FS
+^FO100,586^A0N,18,18^FDBE-9000 Gent^FS
+
+^FO100,613
+^GB1040,1,3,B,0^FS
+
+^FXPart 2
+^FXDelivery Details
+^FO100,622^A0N,18,18^FDReferentie / Référence / Referenz 1:^FS
+^FO100,649^A0N,24,24^FD10000001^FS
+^FO100,682^A0N,18,18^FDReferentie / Référence / Referenz 2:^FS
+^FO100,709^A0N,24,24^FD36798524^FS
+^FO490,613
+^GB1,132,3,B,0^FS
+
+^FXParcel Details
+^FO499,622^A0N,18,18^FDLev. / Liv. / Lief.^FS
+^FO499,649^A0N,30,30^FD1 / 1^FS
+^FO499,682^A0N,18,18^FDGewicht / Poids^FS
+^FO499,709^A0N,30,30^FD10.000 kg^FS
+^FO100,745
+^GB590,1,3,B,0^FS
+
+^FXAztec 2D Barcode
+^FO690,613
+^GB1,450,3,B,0^FS
+
+^FXService Field
+^FO100,754^A0N,24,24^FDCOD^FS
+^FO100,787^A0N,24,24^FD- Data^FS
+^FO395,754^A0N,24,24^FDExport^FS
+^FO395,787^A0N,24,24^FD- Data^FS
+^FO100,820^A0N,24,24^FDDepartment Delivery^FS
+^FO100,1019^A0N,35,35^FDSERVICE INFORMATION^FS
+^FO100,1063
+^GB1040,1,3,B,0^FS
+
+^FXPart 3
+^FXRouting Text Zone
+^FXParcel number
+^FO100,1072^A0N,71,71^FD0530^FS
+^FO235,1072^A0N,47,47^FD1234 5678 90^FS
+^FO475,1095^A0N,24,24^FDa^FS
+^FO100,1152^A0N,18,18^FDTrack^FS
+
+^FXService Text
+^FO690,1072^A0N,47,47^FB450,1,,R,0^FDD-B2C-PSD^FS
+^FO690,1128^A0N,18,18^FB450,1,,R,0^FDService^FS
+
+^FXDestination Text
+^FO100,1180^A0N,130,130^FB1040,1,,C,0^FDBE-0530^FS
+
+^FXService code/country/postcode
+^FO100,1319^A0N,24,24^FB1040,1,,C,0^FD337-BE-3071^FS
+
+^FXLabel Origin
+^FO100,1352^A0N,18,18^FC%,,^FB1040,1,,C,0^FD%d/%m/%y %H:%M:%S-20140901-MVG WSPDF2ZPL^FS
+
+^FXOutbound route sort (O-sort)
+^FO100,1319^A0N,83,83^FDOOOO^FS
+
+^FXInbound route sort (D-sort)
+^FO805,1319^A0N,83,83^FB335,1,,R,0^FDDDDD^FS
+
+^FO95,1411
+^GB1050,1,15,B,0^FS
+^FO95,1411
+^BY5,,^BCN,295,Y,N,N,N^A0N,83,83^FD%000307105307021508317337056^FS
+
+^XZ
